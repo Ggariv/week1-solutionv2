@@ -44,7 +44,16 @@ Through Horiseon, you gain access to the following benefits:
 
   Horiseon's services generate a higher encounter rate with less resources so advertisement won't be a problem for you any longer!
 
+## Horiseon
+
+The following image demonstrates the web application's appearance and functionality:
+
+![Horiseon](./css/Assets/website-screenshot.png)
+
+## Link
+
+You can access at `Horiseon` through the [following link](https://ggariv.github.io/week1-solutionv2/)
+
 - - -
 © 2022 IntelSwift llc. brand. Confidential and Proprietary. All Rights Reserved.
-
 
